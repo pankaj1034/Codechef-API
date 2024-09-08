@@ -40,15 +40,6 @@ https://codechef-api.vercel.app/handle/handle_of_user
 
 
 
-## Authors
-
-- [@deepaksuthar40128](https://www.github.com/deepaksuthar40128)
-
-
-## Demo
-
- https://codechef-api.vercel.app/handle/one_deepak
-
 
 ## Installation
 
@@ -64,7 +55,7 @@ Install my-project with npm
 Clone the project
 
 ```bash
-  git clone https://github.com/deepaksuthar40128/Codechef-API
+  git clone https://github.com/pankaj1034/Codechef-API/
 ```
 
 Go to the project directory
